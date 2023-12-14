@@ -29,3 +29,4 @@ web上でのgithubの利用  |  githubへの招待
   
 ## githubへの招待
 - organizationのownerの人に招待してもらってください
+- 詳しくは学生に聞いてください
